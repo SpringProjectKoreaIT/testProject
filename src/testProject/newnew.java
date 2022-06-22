@@ -1,8 +1,7 @@
 package testProject;
 
-public class bj {
-	//asd
+public class newnew {
 	public static void main(String[] args) {
-		System.out.println();
+		System.out.println("newnewnew");
 	}
 }
